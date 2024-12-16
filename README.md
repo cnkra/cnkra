@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Can!</h1>
+<h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">I am a backend software developer exploring AI and aiming to specialize in intelligent systems.</h3>
 <h5 align="center">When something goes wrong in my code, I catch myself thinking, “Alright, now the fun part begins!” I thrive on backend development in AI projects, seeing every bug or challenge as an exciting opportunity to create something original. My curiosity drives me to dig deeper, explore new ideas, and always push the boundaries of what’s possible.</h5>
 

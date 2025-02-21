@@ -23,7 +23,7 @@
 
 ---
 
-I believe that **Artificial Intelligence is the next evolution of problem-solving**. Whether it’s deep learning, or neural networks, I strive to push boundaries and create **elegant, efficient, and intelligent solutions.
+I believe that **Artificial Intelligence is the next evolution of problem-solving**. Whether it’s deep learning, or neural networks, I strive to push boundaries and create elegant, efficient, and intelligent solutions.
 
 ---
 

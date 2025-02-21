@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" height="50" alt="Haskell" />
-  <img src="https://cnkra.github.io/test-logo/Lisp_logo.svg.png" height="50" alt="Lisp Logo" />
+  <img src="https://raw.githubusercontent.com/cnkra/test-logo/refs/heads/master/test-logo/Lisp_logo.svg.png" height="50" alt="Lisp Logo" />
 </p>
 
 ---

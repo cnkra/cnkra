@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hüseyin Can Kara! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+CS+Student+%7C+Developer;Lover+of+Logic+and+Code;Haskell%2C+Lisp%2C+Python%2C+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI'ya+Meraklı+CS+Student;Can+Kara" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,6 +9,7 @@
 ## 🚀 **About Me**
 - 🎓 I am a **Computer Science** student specializing in **Artificial Intelligence**.
 - 🧠 I love **Functional Programming**, **Logic**, and **AI-based Algorithms**.
+- 🏗 Currently working on **AI-based open-source projects**.
 - 💻 My strongest languages: **Java, Python, Haskell, and Lisp**.
 - 🔬 Exploring **Machine Learning**, **Neural Networks**, and **Computational Theory**.
 
@@ -21,11 +22,19 @@
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cnkra&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cnkra&theme=tokyonight" />
-</p>
+## 🔥 **My AI & Coding Philosophy**
+> _"Code is poetry, but AI is the art of understanding intelligence itself."_  
+> _"Functional programming is not just a paradigm; it’s a way of thinking."_
+
+I believe that **Artificial Intelligence is the next evolution of problem-solving**. Whether it’s **functional programming, deep learning, or neural networks**, I strive to push boundaries and create **elegant, efficient, and intelligent solutions**.
+
+---
+
+## 🧩 **Fun Facts About Me**
+- 🎸 I play **electric guitar** and love experimenting with **AI-generated music**.  
+- 🌿 I have a passion for **growing plants**—even my code needs organic inspiration!  
+- 🔄 I believe that **Lisp and Haskell are the future of AI-driven programming**.  
+- 🛠 My dream? **Building an AI startup that redefines the industry.**  
 
 ---
 
@@ -35,13 +44,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" height="50" alt="Haskell" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Lisp_logo.svg" height="50" alt="Lisp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
 </p>
 
 ---
 
 ## 🌍 **Where to Find Me?**
-📌 [LinkedIn](https://www.linkedin.com/in/huseyincankara)  
-📌 [Twitter](https://twitter.com/huseyincankara)  
-📌 [GitHub](https://github.com/huseyincankara)
+📌 [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-can-kara-9a717919b/)  
+📌 [Instagram](https://www.instagram.com/darquesse)  
+📌 [GitHub](https://github.com/cnkra)  
 
 ---
+
+🔥 **"Code is Poetry, AI is the Future."** 🚀

@@ -15,7 +15,10 @@
 
 ## 🔧 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,haskell,lisp" alt="Tech Stack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" height="50" alt="Haskell" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Autodesk_Lisp_logo.svg" height="50" alt="Lisp" />
 </p>
 
 ---
@@ -24,19 +27,7 @@ I believe that **Artificial Intelligence is the next evolution of problem-solvin
 
 ---
 
-## 🛠 **Languages & Tools**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" height="50" alt="Haskell" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Lisp_logo.svg" height="50" alt="Lisp" />
-</p>
-
----
-
 ## 🌍 **Where to Find Me?**
 📌 [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-can-kara-9a717919b/)  
-📌 [Instagram](https://www.instagram.com/darquesse)  
-📌 [GitHub](https://github.com/cnkra)  
-
+📌 [Instagram](https://www.instagram.com/_darquesse)  
 ---

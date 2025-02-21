@@ -1,10 +1,47 @@
-<h1 align="center">Hi 👋, I'm Can</h1>
-<h3 align="center">I am a backend software developer exploring AI and aiming to specialize in intelligent systems.</h3>
-<h5 align="center">When something goes wrong in my code, I catch myself thinking, “Alright, now the fun part begins!” I thrive on backend development in AI projects, seeing every bug or challenge as an exciting opportunity to create something original. My curiosity drives me to dig deeper, explore new ideas, and always push the boundaries of what’s possible.</h5>
+<h1 align="center">Hi there, I'm Hüseyin Can Kara! 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+CS+Student+%7C+Developer;Lover+of+Logic+and+Code;Haskell%2C+Lisp%2C+Python%2C+Java" alt="Typing SVG" />
+</p>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+## 🚀 **About Me**
+- 🎓 I am a **Computer Science** student specializing in **Artificial Intelligence**.
+- 🧠 I love **Functional Programming**, **Logic**, and **AI-based Algorithms**.
+- 💻 My strongest languages: **Java, Python, Haskell, and Lisp**.
+- 🔬 Exploring **Machine Learning**, **Neural Networks**, and **Computational Theory**.
+
+---
+
+## 🔧 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,haskell,lisp,c,cpp,git,github" alt="Tech Stack" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cnkra&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cnkra&theme=tokyonight" />
+</p>
+
+---
+
+## 🛠 **Languages & Tools**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" height="50" alt="Haskell" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Lisp_logo.svg" height="50" alt="Lisp" />
+</p>
+
+---
+
+## 🌍 **Where to Find Me?**
+📌 [LinkedIn](https://www.linkedin.com/in/huseyincankara)  
+📌 [Twitter](https://twitter.com/huseyincankara)  
+📌 [GitHub](https://github.com/huseyincankara)
+
+---

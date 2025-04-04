@@ -5,11 +5,11 @@
 ---
 
 ##  **About Me**
-- 🎓 I am a **Computer Science** student specializing in **Artificial Intelligence**.
-- 🧠 I love **AI-based Algorithms**, **Logic** and **Functional Programming**.
-- 🏗 Currently working on **AI-based open-source projects**.
-- 💻 My strongest languages: **Java, Python, Haskell, and Lisp**.
-- 🔬 Exploring **Machine Learning**, **Neural Networks**, and **Computational Theory**.
+ CS student specializing in AI with a data-driven mindset.
+ Passionate about turning raw data into structured insight for intelligent systems.
+ Focused on ML, logic-based AI, and functional programming.
+ Skilled in Java, Python, Haskell, and Lisp.
+ Building interpretable, data-centric AI models in open-source projects.
 
 ---
 
